@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:lottie/lottie.dart';
-import 'package:mktbh/home/home2.dart';
-import 'package:mktbh/home/home3.dart';
-import 'package:mktbh/home/home4.dart';
-import 'package:mktbh/home/home5.dart';
+import 'package:mktbh/admin/home/home2.dart';
+import 'package:mktbh/admin/home/home3.dart';
+import 'package:mktbh/admin/home/home4.dart';
+import 'package:mktbh/admin/home/home5.dart';
 
 import 'home/home1.dart';
 

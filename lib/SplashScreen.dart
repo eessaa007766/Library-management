@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'package:lottie/lottie.dart';
-import 'package:mktbh/page1.dart';
+import 'package:mktbh/login.dart';
 // import 'package:sizer/sizer.dart';
 import 'package:flutter/material.dart';
 
@@ -16,7 +16,7 @@ class _SplashScreenState extends State<SplashScreen> {
     Timer(
         Duration(seconds: 5),
         () => Navigator.pushReplacement(
-            context, MaterialPageRoute(builder: (context) => page1())));
+            context, MaterialPageRoute(builder: (context) => login())));
   }
 
   @override
